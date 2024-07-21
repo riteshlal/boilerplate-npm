@@ -1,5 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ritesh Lal",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"freecodecamp",
+		"npm"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
